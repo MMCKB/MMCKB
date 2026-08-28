@@ -7,7 +7,6 @@
   </a>
 </h1>
 
-<!-- 社交徽章 -->
 <p>
   <a href="https://github.com/MMCKB"><img src="https://img.shields.io/badge/GitHub-MMCKB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://MMCKB.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=flat-square&logo=astro&logoColor=white" alt="Portfolio"></a>
@@ -29,8 +28,6 @@
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
 </p>
 
-<!-- 平台 & 工具 -->
-<p><strong>Platforms & Tools</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/LineageOS-3DDC84?style=for-the-badge&logo=lineageos&logoColor=white" alt="LineageOS">
@@ -41,8 +38,6 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 </p>
 
-<!-- 浏览器 & 社交 -->
-<p><strong>Browser & Social</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Edge">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -50,15 +45,11 @@
   <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
 </p>
 
-<!-- 云服务 & CI -->
-<p><strong>Cloud & CI</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-<!-- AI -->
-<p><strong>AI</strong></p>
 <p>
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
   <img src="https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen">
