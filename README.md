@@ -18,8 +18,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <!-- 编程语言 -->
 <p><strong>Languages</strong></p>
 <p>
