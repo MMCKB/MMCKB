@@ -14,20 +14,6 @@
   <img src="https://img.shields.io/badge/Since-2026--02-14-36B5F0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMnptLS41IDE1aC0xdi02aDF2NnptMC04aC0xdi0xaDF2MXoiLz48L3N2Zz4=" alt="Joined"></a>
 </p>
 
-<!-- 头像 + 简介卡片 -->
-<table>
-<tr>
-<td width="56%">
-
-### 👨‍💻 About Me
-
-跨平台开发者，专注于 **小米 Vela OS** 生态与嵌入式设备<br>
-热爱探索智能穿戴、路由器固件与桌面工具<br>
-追求 Apple 级别的设计细节与用户体验
-
-</td>
-<td width="44%">
-
 <img src="https://avatars.githubusercontent.com/u/261642615?v=4" width="180" style="border-radius: 12px; border: 2px solid #36B5F0;" alt="MMCKB">
 
 </td>
