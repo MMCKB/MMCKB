@@ -186,4 +186,16 @@
 
 ---
 
-## 💡 Focus Areas
+
+---
+
+<div align="center">
+
+### 🌟 *"Build tools that feel delightful to use"*
+
+<!-- 访客计数 -->
+<img src="https://profile-counter.glitch.me/MMCKB/count.svg?" alt="Visitor Count" width="180"/>
+
+<sub>📅 Last updated: 2026-08-29 · Made with ❤️ by [MMCKB](https://github.com/MMCKB)</sub>
+
+</div>
